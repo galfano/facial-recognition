@@ -1,7 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e3d1c1b-cf22-4d84-af5d-e1f923f89fc2" name="Default Changelist" comment="" />
+    <list default="true" id="8e3d1c1b-cf22-4d84-af5d-e1f923f89fc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/reconhecimento-facial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/classificadores/classificador-lbph.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.1.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.2.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.3.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.4.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.5.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.6.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.7.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.8.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fotos/pessoa.9.1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/haarcascade-frontalface-alt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/Captura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/Reconhecimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/ReconhecimentoSemWebcam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/TesteJavaCV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/TesteYale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/Treinamento$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/Treinamento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reconhecimento/TreinamentoYale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webcam/pessoa.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject01.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject01.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject02.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject02.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject03.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject03.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject04.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject04.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject05.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject05.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject06.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject06.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject07.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject07.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject08.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject08.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject09.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject09.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject10.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject10.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject11.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject11.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject12.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject12.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject13.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject13.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject14.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject14.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject15.sad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/teste/subject15.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.glasses.gif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject01.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject02.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject03.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject04.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject05.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject06.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject07.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject08.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject09.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject10.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject11.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject12.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject13.wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject14.surprised.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.centerlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.glasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.happy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.leftlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.noglasses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.rightlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.sleepy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/yalefaces/treinamento/subject15.surprised.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,19 +212,28 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/reconhecimento/Treinamento.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-193">
-              <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/reconhecimento/Reconhecimento.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/reconhecimento/Reconhecimento.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -44,6 +246,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,11 +294,6 @@
               <item name="reconhecimento-facial" type="b2602c69:ProjectViewProjectNode" />
               <item name="reconhecimento-facial" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="reconhecimento-facial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reconhecimento-facial" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -103,6 +303,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.4299308" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -118,17 +319,17 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="reconhecimento" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/resources/webcam" />
       <recent name="$PROJECT_DIR$/src/main/resources/fotos" />
       <recent name="$PROJECT_DIR$/src/main/java/reconhecimento" />
       <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reconhecimento" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
@@ -236,12 +437,12 @@
       <workItem from="1562757933211" duration="15108000" />
       <workItem from="1562780230487" duration="4535000" />
       <workItem from="1562785049854" duration="2395000" />
-      <workItem from="1562845088965" duration="12554000" />
+      <workItem from="1562845088965" duration="13138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68322000" />
+    <option name="totallyTimeSpent" value="68906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1322" y="30" width="1238" height="1405" extended-state="0" />
@@ -260,7 +461,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3299373" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286385" />
@@ -318,9 +519,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -352,7 +553,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fotos/pessoas.3.3.jpg" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/fotos/pessoas.3.4.jpg" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/fotos/pessoa.1.jpg" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/fotos/pessoas.3.1.jpg" />
@@ -537,17 +737,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/reconhecimento/Treinamento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-193">
-          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reconhecimento/Reconhecimento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
