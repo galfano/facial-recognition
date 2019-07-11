@@ -1,0 +1,5 @@
+
+Ssquid:S1854"5Remove this useless assignment to local variable "r".(úˆëø8Ò’Ú˜¼-
+osquid:S2095"QUse try-with-resources or close this "EigenFaceRecognizer" in a "finally" clause.(úˆëø8Î¾Ú˜¼-
+[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8â€ã“¼-
+Dsquid:S1481"&Remove this unused "r" local variable.(úˆëø8Ò’Ú˜¼-

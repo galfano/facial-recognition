@@ -1,0 +1,7 @@
+
+psquid:S2095E"RUse try-with-resources or close this "FisherFaceRecognizer" in a "finally" clause.(üş™ƒ8§™¿½-
+osquid:S2095D"QUse try-with-resources or close this "EigenFaceRecognizer" in a "finally" clause.(ÄœÑÕ8§™¿½-
+csquid:UselessImportCheck"3Remove this unused import 'java.io.FilenameFilter'.(¶àıİşÿÿÿÿ8åŞ¹¾½-
+gsquid:S2095F"PUse try-with-resources or close this "LBPHFaceRecognizer" in a "finally" clause.(®Á±®
+Tsquid:S1197'"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+qsquid:UselessImportCheck"FRemove this unused import 'org.bytedeco.opencv.global.opencv_imgproc'.(†ñĞ­8ü¼¾½-

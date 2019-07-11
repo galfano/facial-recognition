@@ -1,0 +1,11 @@
+
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(É‚õßýÿÿÿÿ
+nsquid:S2095"PUse try-with-resources or close this "LBPHFaceRecognizer" in a "finally" clause.(Â‚ÇÐ8…¯Ÿ¿½-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê«Ö„8‡û¿½-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤¡²ˆ8‡û¿½-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(„Øåýÿÿÿÿ8ºá¾½-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ø…ÕÞ8ºá¾½-
+esquid:S35186"BMake sure "totalAcertos" can't be zero before doing this division.(¡£ÇÁüÿÿÿÿ8ºá¾½-

@@ -1,0 +1,19 @@
+
+Gsquid:S1481*"+Remove this unused "camera" local variable.(þ×ÓÖúÿÿÿÿ
+Vsquid:S1854."@Remove this useless assignment to local variable "detectorFace".(¼Û€_
+´%squid:RedundantThrowsDeclarationCheck&"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(«Î‰‘ûÿÿÿÿ8¦¢½é½-
+hsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(éÅY8Ší¼é½-
+lsquid:S2095*"PUse try-with-resources or close this "OpenCVFrameGrabber" in a "finally" clause.(þ×ÓÖúÿÿÿÿ
+Wsquid:S1854,";Remove this useless assignment to local variable "pessoas".(á“àËøÿÿÿÿ
+Gsquid:S1481."1Remove this unused "detectorFace" local variable.(¼Û€_
+[squid:S1854("?Remove this useless assignment to local variable "converteMat".(•Ñ„øúÿÿÿÿ
+esquid:S2095."OUse try-with-resources or close this "CascadeClassifier" in a "finally" clause.(¼Û€_
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ê«Ö„
+nsquid:S20958"PUse try-with-resources or close this "LBPHFaceRecognizer" in a "finally" clause.(Â‚ÇÐ8¦¢½é½-
+Tsquid:S1197&"8Move the array designator from the variable to the type.(«Î‰‘ûÿÿÿÿ
+Lsquid:S1481("0Remove this unused "converteMat" local variable.(•Ñ„øúÿÿÿÿ
+Á%squid:RedundantThrowsDeclarationCheck&"ƒRemove the declaration of thrown exception 'org.bytedeco.javacv.FrameGrabber$Exception', as it cannot be thrown from method's body.(«Î‰‘ûÿÿÿÿ8¦¢½é½-
+Hsquid:S1481,",Remove this unused "pessoas" local variable.(á“àËøÿÿÿÿ
+Vsquid:S1854*":Remove this useless assignment to local variable "camera".(þ×ÓÖúÿÿÿÿ
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ø…ÕÞ

@@ -1,0 +1,10 @@
+
+´%squid:RedundantThrowsDeclarationCheck!"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(«Î‰‘ûÿÿÿÿ8ß©Â½-
+hsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(éÅY8ÇØÙç½-
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Ê«Ö„8ãò’Â½-
+[squid:S1197!"8Move the array designator from the variable to the type.(«Î‰‘ûÿÿÿÿ8Š™©½-
+ssquid:S2095%"PUse try-with-resources or close this "OpenCVFrameGrabber" in a "finally" clause.(ş×ÓÖúÿÿÿÿ8Š™©½-
+lsquid:S2095+"OUse try-with-resources or close this "CascadeClassifier" in a "finally" clause.(¼Û€_8Š™©½-
+nsquid:S20955"PUse try-with-resources or close this "LBPHFaceRecognizer" in a "finally" clause.(Â‚ÇĞ8ÇØÙç½-
+`squid:S1854>"BRemove this useless assignment to local variable "imagemColorida".(©®Àê8Š™©½-
+_squid:S2095>"AUse try-with-resources or close this "Mat" in a "finally" clause.(©®Àê8Š™©½-

@@ -1,0 +1,12 @@
+
+`squid:S18540"BRemove this useless assignment to local variable "imagemColorida".(©®Àê8±áš¼-
+Msquid:S1066b"/Merge this if statement with the enclosing one.(›ì”–8çòø›¼-
+U
+squid:S106f"9Replace this use of System.out or System.err by a logger.(Ù©“_8Øÿ›¼-
+lsquid:S2095*"OUse try-with-resources or close this "CascadeClassifier" in a "finally" clause.(¼Û€_8ÄŸš¼-
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(°£¢­8Æœê›¼-
+usquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(«Î‰‘ûÿÿÿÿ8çòø›¼-
+[squid:S1197 "8Move the array designator from the variable to the type.(«Î‰‘ûÿÿÿÿ8±áš¼-
+ssquid:S2095&"PUse try-with-resources or close this "OpenCVFrameGrabber" in a "finally" clause.(ş×ÓÖúÿÿÿÿ8±áš¼-
+_squid:S20950"AUse try-with-resources or close this "Mat" in a "finally" clause.(©®Àê8‚şŸš¼-
